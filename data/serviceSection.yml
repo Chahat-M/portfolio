@@ -1,0 +1,24 @@
+---
+enable: true
+topTitle: Extracurricular
+title: >
+  ## Creative Excellence
+
+  Creative skills are the driving force behind innovation, enabling unique problem-solving, compelling storytelling, and the ability to create meaningful connections with audiences.
+service:
+  - content: >
+      #### Leadership 
+
+      Led several teams in school and college for projects and hackathons and achieved our goals. Also, learnt the importance of communication and decision-making.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Public Speaking
+
+      Patcipated and won several debate competitions in school. In college, participated in many other literary activities and was a member of the literary club.
+    image: images/service/web.svg
+  - content: >
+      #### Management
+
+      Worked in several technical and non-technical clubs to organize numerous events. Well coordinated the students' teams, guests and faculties and made events successful.
+    image: images/service/creative.svg
+  

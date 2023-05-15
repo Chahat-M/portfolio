@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: Hello, my name is
+content: >
+  # Chahat Mittal
+
+  I am a Software Developer and an ML Enthusiast. 
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/hero-img.jpeg
+#videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ

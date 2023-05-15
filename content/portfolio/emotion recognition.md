@@ -1,0 +1,17 @@
+---
+title: Emotion Recognition using EEG Signals
+date: 2022-07-17T18:19:35.000+06:00
+thumbnail: images/portfolio/portfolio-3.jpeg
+service: Emotion Recognition
+client: Machine Learning, Python, Matlab
+
+shortDescription: "Emotion recognition using EEG signals is a field of study that focuses on the development of algorithms and techniques to detect and **interpret human emotions** based on electroencephalography (EEG) signals. To recognize emotions using EEG signals, various machine learning techniques were applied like **SVM, Random Forest and kNN.** The process typically involved collecting EEG signals while individuals are experiencing different emotional states, preprocessing the signals to extract relevant features such as **power spectral density**, band power, and skewness, selecting appropriate machine learning models, and fine-tuning the models to achieve accurate classification results. The **DEAP dataset**, which included both physiological signals such as EEG and audiovisual signals, was used to extract features from 40 EEG channels of 32 individuals while they watched 40 videos an achieved an impressive overall **accuracy of 99.38%.**"
+
+challenge: "Emotion recognition using EEG signals faced several challenges, including **signal noise**, individual differences, limited availability of datasets, and **interpretation of signals.** EEG signals are prone to various sources of noise and artifacts that can affect the quality of the signals. Additionally, the **limited availability of high-quality EEG datasets** made it difficult to develop and evaluate algorithms. Finally, the interpretation of EEG signals was complex, which made it challenging to **determine features** of the signals that are most informative for detecting emotions."
+
+solution: "The key features in the process included selecting relevant EEG channels, choosing appropriate time windows, and **applying signal processing techniques** to extract meaningful features from the raw EEG data. **Feature selection** was also an essential aspect of the process, as it helped to identify the most relevant features for emotion recognition while minimizing noise and redundancy. Also, while training the data, the algorithm ensured that it **effective for a wide range of individuals** and hence achieved overall **accuracy of 99.38%.**  "
+
+---
+Developing a machine learning model for emotion recognition required several **technical skills.** These include data preprocessing, feature extraction, and machine learning algorithms. **Data preprocessing** involves cleaning, normalizing, and transforming raw data into a format suitable for analysis. **Feature extraction** involves selecting the most relevant features from the preprocessed data that was used to train the machine learning model. Machine learning algorithms, such as **random forest, support vector machines, and kNN**, are used to build the model. Other skills such as data visualization, model evaluation, and **optimization techniques** were also important in developing an accurate and reliable model for emotion recognition.
+
+To gain a more comprehensive understanding of the project, it is recommended that you review its [report](https://drive.google.com/file/d/1bhueqiBn0vvsvWxKlg9CqBnJX6fuxoIb/view?usp=sharing) which contains additional details and information.

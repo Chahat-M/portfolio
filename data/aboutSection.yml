@@ -1,0 +1,21 @@
+---
+enable: true
+#topTitle: About
+title: >
+  ## About me
+
+  "Turning lines of code into solutions that change lives - that's my passion as a future software developer."
+content: >
+
+  I am a pre-final year student at **IIIT Naya Raipur**, pursuing B.Tech in Electronics and Communication Engineering.
+  I am actively seeking opportunities to expand my knowledge and gain hands-on experience in the fields of **software development, machine learning, deep learning, computer vision, and data science.** 
+  I am eager to enhance my skills and make a meaningful contribution to any project or organization that I work with.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+image: images/about/about-img.jpeg
+button2:
+  Name: Download CV
+  url: resume/Chahat_resume.pdf
+  download: Chahat_Mittal_Resume.pdf
+

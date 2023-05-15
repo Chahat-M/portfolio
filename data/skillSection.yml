@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me?
+
+skill:
+  - title1: C/C++
+    percent1: 90
+    title2: Databases - MySQL, Oracle
+    percent2: 85
+  - title1: Python
+    percent1: 90
+    title2: Data Science, Machine Learning, Computer Visison
+    percent2: 70
+  - title1: Rust
+    percent1: 85
+    title2: Linux
+    percent2: 70
